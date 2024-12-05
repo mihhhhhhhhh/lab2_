@@ -1,4 +1,4 @@
-# LAB2_PAM
+# lab2
 
 A new Flutter project.
 
